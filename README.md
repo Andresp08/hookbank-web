@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-## This is a dinamic project using React Js, Tailwind Css for user interface design, Prisma as Database service and more.
+## This is a dinamic project using React Js, Tailwind Css for user interface design, modern UX/UI and more.
 
 ### This project contains: 
 
